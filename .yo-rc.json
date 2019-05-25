@@ -1,0 +1,45 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "SampleApplication2",
+    "packageName": "com.sp.jhipster.application",
+    "packageFolder": "com/sp/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "cucumber"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "ko",
+    "languages": [
+      "en",
+      "ko"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.0.1",
+    "jwtSecretKey": "MDgwZGJlNmNiOGNkNTI4Zjg2YjgwN2EzMWVjODdjNmFlNjMxZjM0MzNiYjI4MTc1NGNkYzFhNmNiMTBiNmE0ZWViNzllNWRlNTY5ZWEwZWEwNDZjMjI3Njg3Zjc4ZDRkZjM2NWFjODY3MjM2NTY3ODk2MGQwZjk2NmQ4MzYwZTY=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "jongwon",
+  "repository-name": "jhipster-sample-application-2"
+}
